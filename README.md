@@ -7,6 +7,8 @@ The goal of this project is to use the model organism C. elegans to demonstrate 
 Data in the repository has been gathered from the following sources:
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6889226/#SD1
 - https://data.mendeley.com/datasets/ybhwtngzmm/1
+- https://dandiarchive.org/dandiset/000541
+- https://www.wormwideweb.org/
 
 Please reach out to ronakr@utexas.edu if you would like any of this data to be made private. Thanks!
 
