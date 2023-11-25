@@ -9,6 +9,9 @@ Data in the repository has been gathered from the following sources:
 - https://data.mendeley.com/datasets/ybhwtngzmm/1
 - https://dandiarchive.org/dandiset/000541
 - https://www.wormwideweb.org/
+- https://zenodo.org/records/3906530
+
+Since these datasets are large, we haven't pushed most of them to our git repo. You may need to download them yourself and put them in the right place in the datasets/ folder in order to get code running.
 
 Please reach out to ronakr@utexas.edu if you would like any of this data to be made private. Thanks!
 
